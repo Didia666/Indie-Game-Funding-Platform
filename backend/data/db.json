@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Quest of Mayon",
+      "description": "An action RPG inspired by Bicolano folklore.",
+      "goal": 25000,
+      "raised": 22350,
+      "assetCode": "MAYON",
+      "issuer": "GD2W...MAYON",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=2000"
+    },
+    {
+      "id": 2,
+      "title": "Jeepney Drift",
+      "description": "Cyberpunk jeepney racing in the streets of Manila.",
+      "goal": 15000,
+      "raised": 5000,
+      "assetCode": "JDRIFT",
+      "issuer": "GD3X...JDRIFT",
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&q=80&w=2000"
+    }
+  ],
+  "investments": [
+    {
+      "gameId": 1,
+      "amount": 100,
+      "investorAddress": "GCKHU4A7U7MANRTHOKBN7FTAYTE2PDWYOI24VX2NQD3U7WXH6QSABXII",
+      "txHash": "simulated_tx_hash_vb1pm",
+      "timestamp": "2026-06-08T06:58:41.789Z"
+    },
+    {
+      "gameId": 1,
+      "amount": 1000,
+      "investorAddress": "GCKHU4A7U7MANRTHOKBN7FTAYTE2PDWYOI24VX2NQD3U7WXH6QSABXII",
+      "txHash": "simulated_tx_hash_74j2i6",
+      "timestamp": "2026-06-08T07:05:16.115Z"
+    }
+  ]
+}
